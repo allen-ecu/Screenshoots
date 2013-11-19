@@ -1,0 +1,1 @@
+Use OpenGL to capture screenshot of glcontrol handler window
